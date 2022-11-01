@@ -45,7 +45,7 @@ body {
 /* Styling section for the main part which contains "About me" section */
 
 main {
-    display: flex
+    display: flex;
     flex-direction: column;
 }
 
